@@ -1,0 +1,39 @@
+body {
+    background-image: url("https://img.freepik.com/free-photo/abstract-polygonal-space-low-poly-dark-background-3d-rendering_7247-223.jpg");
+    align-items: center;
+    background-size:cover;
+}
+
+
+.login_div1 , .login_div2
+{
+    background: peachpuff;
+    padding: 10px;
+    float:none;
+    border-radius:15px;
+    align-items: center;
+}
+
+.number_div{
+    background-color: antiquewhite;
+    border-radius: 30px;
+}
+
+#number1_input , #number2_input{
+background-color: antiquewhite;
+}
+
+#player1_name , #player2_name, #player2_score, #player1_score{
+    display:inline-block;
+    margin-left: 20px;
+    color:antiquewhite;
+    }
+
+    #output{
+        background-color: lemonchiffon;
+        border-radius: 20px;
+        border-top:10px solid rgb(23, 18, 90);
+        padding: 10px;
+        float:none;
+        text-align:left;
+    }
